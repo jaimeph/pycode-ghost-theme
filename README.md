@@ -8,3 +8,6 @@ Plantilla personalizada y tuneada para el blog de www.pycode.es.
 * Establecemos la etiqueta de idioma en la web lang="es".
 * Traducción de los textos de la página principal.
 * Cambio de texto del pie de la página.
+
+Enlaces de interes para personalizar Ghost:
+* [http://themes.ghost.org/](Docs)
